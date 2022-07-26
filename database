@@ -1,0 +1,8 @@
+CREATE DATABASE list;
+
+    USE list;
+
+CREATE TABLE Affairs(
+    id INT unsigned unique auto_increment,
+    task varchar(255)
+);
