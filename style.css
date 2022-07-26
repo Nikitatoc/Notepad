@@ -1,0 +1,25 @@
+.box{
+    margin-left:600px;
+    margin-top: 300px;
+    margin-right: 650px;
+}
+form{
+    background-color: #24cdd6;
+    border: 2px solid #0a0a0a;
+    border-radius: 10px;
+    padding: 20px 10px 20px 10px;
+}
+#task{
+    width: 70%;
+    margin-right: 5%;
+    height: 30px;
+    border-radius: 3px;
+}
+#button{
+    padding: 5px 5px 5px 5px;
+    background-color: #11a862;
+    border-radius: 60px;
+}
+#button:hover{
+    border: 1px solid #030303
+}
